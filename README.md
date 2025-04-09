@@ -10,7 +10,7 @@ The script will run though a select few SQL queries to showcase the functions, t
 
 The output of the testing script can be seen below:
 
-![BankDB_test](https://github.com/user-attachments/assets/eaa5be9f-14cf-4f93-b762-559e97eeeb67)
+![HealthcareDB_test](https://github.com/user-attachments/assets/9394f0c0-c9cc-4298-8d92-ff9bcf1e76a5)
 
 ## Access Control
 Role-Based Access Control (RBAC) is used to give users their necessary permissions. These have been implemented with group roles for Patients, Staff, Doctors, and Admins in order to enforce the principle of least privilege, and only give users necessary access for their job role.
